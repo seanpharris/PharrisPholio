@@ -6,7 +6,13 @@
 
 
 ## Most recent project
-!(Read me)(https://github.com/seanpharris/CryptoAnalysisPipe#readme)
+CryptoAnalysisPipe
+* This is a pipeline that keeps over 100 different cryptocurrencies market data up to date
+* The data comes from a RapidAPI by Alpha Vantage to call and store daily records for cryptocurrencies
+* Each crypto's data is stored its own CSV file (files found in kaggle)
+* It updates the data every Wednesday at midnight 
+* The notebook can be found at [here](https://www.kaggle.com/seanpharris/cryptoanalysispipe)
+* You may run the notebook yourself or use the output files from the one I made (linked above)
 
 ## Application projects
 
