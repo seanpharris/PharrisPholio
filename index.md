@@ -12,7 +12,7 @@
 * Each crypto's data is stored its own CSV file (files found in kaggle)
 * It updates the data every Wednesday at midnight 
 * The notebook can be found at [here](https://www.kaggle.com/seanpharris/cryptoanalysispipe)
-* You may run the notebook yourself or use the output files from the one I made (linked above)
+* You may run the notebook yourself or use the output files from the one I made (linked above)  
 Intention:
 My hopes are to be able to do data analysis with fresh data of the currencies and allow others to access the output files of the notebook
 
