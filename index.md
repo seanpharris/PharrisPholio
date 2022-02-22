@@ -1,11 +1,11 @@
 # Welcome to my portfolio!
 
 ## Table of contents
-1. [Most recent project](#mostrecentproject)
+1. [Current project](#currentproject)
 2. [Application projects](#applicationprojects)
 3. [Data Analysis projects](#dataanalysisprojects)
 
-## Most recent project
+## Current project
 [CryptoAnalysisPipe](https://github.com/seanpharris/CryptoAnalysisPipe)
 * This is a pipeline that keeps over 100 different cryptocurrencies market data up to date
 * The data comes from a RapidAPI by Alpha Vantage to call and store daily records for cryptocurrencies
