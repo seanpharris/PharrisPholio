@@ -1,2 +1,2 @@
-# spharris_portfolio
-Portfolio of projects
+# Sean's Pholio
+Welcome to my portfolio!
